@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "QEMU FreeRTOS Debug",
+            "type": "cortex-debug",
+            "request": "launch",
+            "servertype": "qemu",
+            "executable": "${workspaceFolder}/firmware.elf",
+            "cpu": "cortex-m3",
+            "machine": "lm3s6965evb"
+        }
+    ]
+}
