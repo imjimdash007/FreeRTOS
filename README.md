@@ -1,3 +1,6 @@
+# This is for FreeRTOS experiment in Windows + VSCode platform"
+
+
 # Hi there, I'm Jim Dash (aka AJ) 👋 🎸
 
 **Working Class Mystic | Total GEEK | Classic Rock Fanatic**
